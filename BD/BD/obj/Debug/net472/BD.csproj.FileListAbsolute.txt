@@ -1,0 +1,12 @@
+C:\Users\Михаил\RiderProjects\BD\BD\bin\Debug\net472\BD.exe.config
+C:\Users\Михаил\RiderProjects\BD\BD\bin\Debug\net472\BD.exe
+C:\Users\Михаил\RiderProjects\BD\BD\bin\Debug\net472\BD.pdb
+C:\Users\Михаил\RiderProjects\BD\BD\bin\Debug\net472\System.Data.SqlClient.dll
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.csproj.AssemblyReference.cache
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.exe
+C:\Users\Михаил\RiderProjects\BD\BD\obj\Debug\net472\BD.pdb

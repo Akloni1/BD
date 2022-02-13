@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8JEhhD2GDQ55u0zGFPkN5ARuU8WpDfEYKGTdWFolz4LsWK/SebCkQAhg7Oz3zGLMtpm0ugL05wZJxkAHGR6og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\RiderProjects\\BD\\BD\\BD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
